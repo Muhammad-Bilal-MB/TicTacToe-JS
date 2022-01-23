@@ -1,0 +1,62 @@
+h1 {
+    color: coral;
+    font-size: 40px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-gap: 2px;
+    text-align: center;
+    margin-left: 550px;
+}
+
+#b1, #b2, #b3, #b4, #b5, 
+    #b6, #b7, #b8, #b9 {
+    width: 135px;
+    height: 100px;
+    margin: auto;
+    border: 5px solid gray;
+    border-radius: 6px;
+    font-size: 30px;
+    text-align: center;
+    background-color: darkslateblue;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#container{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#resetbutton{
+    font-size: 18px;
+    font-weight: bold;
+    background-color: salmon;
+    border:ridge;
+    border-radius: 30px;
+}
+
+#cross {
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 100px;
+    width: 70px;
+}
+
+#circle {
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 100px;
+    width: 70px;
+    margin-left: 80px;
+}
+
+
+  
